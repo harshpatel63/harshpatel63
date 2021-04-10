@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Koin for dependency injection💉**
 
-- 💬 Ask me about **Android, kotlin, dagger-hilt, testing on android**
+- 💬 Ask me about **Android, Kotlin, Dagger-Hilt, Testing in android**
 
 - 📫 How to reach me **patelharsh0603@gmail.com**
 
