@@ -20,7 +20,7 @@
 
 <h3 align="center">I use <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> the most</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sci3fic&show_icons=true&locale=en&layout=compact" alt="sci3fic" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshpatel63&show_icons=true&locale=en&layout=compact" alt="harshpatel63" />
 </p>
 
 
@@ -30,7 +30,7 @@
 
 
 <h3 align="center">Working on my stats...👷‍♂️</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sci3fic&show_icons=true&locale=en" alt="sci3fic" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshpatel63&show_icons=true&locale=en" alt="harshpatel63" /></p>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -41,4 +41,4 @@
 
 
 <h3 align="center">You are among the special ones...</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/Sci3fic/count.svg"/>
+<p align="center"><img src="https://profile-counter.glitch.me/harshpatel63/count.svg"/>
